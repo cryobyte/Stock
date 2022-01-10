@@ -135,3 +135,11 @@ Check if investments update in text file.
 
 (5) What  possible  improvements  could  be  done  if  you  were  to  do  it  again  or  have  extra  time available:
 Since A1 I have improved my code slightly however, I feel like my code is still not optimized to the fullest and there is still room for improvments.
+
+![image](https://user-images.githubusercontent.com/55255451/148811843-54a88bef-85c7-4702-92e1-ad7176d38243.png)
+
+![image](https://user-images.githubusercontent.com/55255451/148811864-b3e8fd5c-6f96-4469-bd37-6686190bcd42.png)
+
+![image](https://user-images.githubusercontent.com/55255451/148811885-38f49035-e547-4ab7-bbfd-a08d215c42a6.png)
+
+![image](https://user-images.githubusercontent.com/55255451/148811934-f8e273fc-22ed-471b-a63c-62cb029be329.png)
