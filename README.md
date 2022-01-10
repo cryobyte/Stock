@@ -3,7 +3,7 @@ This assignment consists of tons of user inputs and array list managment. The ge
 
 To Compile and Build: 
 -javac a3/*.java
--java a3/gui "testfile.txt"
+-java a3/gui "test.txt"
 
 (2) What  are  the  assumptions  and  limitations  of  your solution:
 For the initial menu the user is required to enter the name of the command they would like to run so if they enter anything the program won't run. In additon. I assumed Stock symbols are NOT case sensitive. I also did NOT round any doubles. I also assumed that the book value gets updated when updating the price for an investment.
